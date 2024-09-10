@@ -1,5 +1,8 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
+## Name : Rohith Prem S
+## Register Number : 212223040172
+
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
